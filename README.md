@@ -4,7 +4,7 @@
 
 🚀 I’m currently learning Reactjs<br>⭐ Ask me anything about MERN Stack<br>⚡ Fun fact: I prefer tabs over spaces
 
-<!-- @coding_dev_ | Tilak -->
+<!-- Sahil Dhawan -->
 
 ## Let's Connect ⚡
 Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_dev_) 
@@ -31,4 +31,4 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
  <a href="https://www.buymeacoffee.com/coding_dev_" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 250px !important" ></a>
 
   
-<!-- Proudly created by Tilak (@coding_dev_) -->
+<!-- Proudly created by Sahil Dhawan -->
