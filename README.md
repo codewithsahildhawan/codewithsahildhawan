@@ -12,8 +12,6 @@
 
 Currently working as Software Enginner. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
 
-Joined Github 3 years ago.
-
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 ### Talking about Personal Stuff:
